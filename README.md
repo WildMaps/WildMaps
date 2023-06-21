@@ -39,3 +39,7 @@ We encourage individuals and organizations passionate about biodiversity conserv
 - **Feedback and Ideas**: Share your feedback, suggestions, and ideas for improving WildMaps. Open an issue in the relevant repository to start a discussion or propose new features.
 
 - **Spread the Word**: Help us raise awareness about WildMaps by sharing the project with your friends, communities, and social media networks. Together, we can create a strong network of biodiversity enthusiasts and make a positive impact.
+
+## License
+
+This project is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). You are free to use, modify, and distribute the project, as long as you provide attribution to WildMaps and any relevant contributors.
